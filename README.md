@@ -1,4 +1,4 @@
-# POSE Estimation Rotation Translation
+# POSE Estimation, Rotation and Translation
 
 ----------
 
