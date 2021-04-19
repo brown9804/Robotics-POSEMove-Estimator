@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1537361032 source:/home/est/Desktop/transformacionDePose/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1557862699 source:/home/est/Desktop/Vision por computador/Tarea9 /main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1559513030 source:/home/emmanuel/Desktop/Examen_Programado_I_B61254/main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
