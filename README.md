@@ -1,10 +1,11 @@
-# POSE Estimation, Rotation and Translation
+# Robotics POSE Rotation Translate Estimator
 
-----------
+Costa Rica
 
-University of Costa Rica
+Belinda Brown, belindabrownr04@gmail.com
 
-Belinda Brown, timna.brown@ucr.ac.cr
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[brown9804](https://github.com/brown9804)
 
 2019
 
