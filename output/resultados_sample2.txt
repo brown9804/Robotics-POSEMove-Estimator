@@ -1,0 +1,32 @@
+Posicion del mastil con respecto al sistema de coordenadas del mundo en el instante 1 
+HXm1= 34.01
+HYm1= 51.44
+HZm1= 63.85
+Posicion del mastil con respecto al sistema de coordenadas del mundo en el instante 2 
+HXm2= 23.80
+HYm2= 3.90
+HZm2= 0.56
+Posicion del robot con respecto al sistema de coordenadas del mundo  en el instante 1 
+G1rx= 24.00
+G1ry= 40.00
+G1rz= 60.00
+Orientacion del robot con respecto al sistema de coordenadas del mundo en el instante 1 
+R1rx= 5.000000
+R1ry= 10.000000
+R1rz= 10.000000
+Posicion del robot con respecto al sistema de coordenadas del mundo en el instante 2 
+G2rx= 0.00
+G2ry= 0.00
+G2rz= 0.00
+Orientacion del robot con respecto al sistema de coordenadas del mundo en el instante 2 
+R2rx= 18.175621
+R2ry= 22.799902
+R2rz= 17.438758
+Traslacion del robot con respecto al sistema de coordenadas del mundo en el instante 0 a 2 
+Tr0a2x= -14.00
+Tr0a2y= -20.00
+Tr0a2z= -30.00
+Rotacion del robot con respecto al sistema de coordenadas del mundo en el instante 0 a 2 
+Rr0a2x= 18.175621
+Rr0a2y= 22.799902
+Rr0a2z= 17.438758
