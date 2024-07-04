@@ -1,0 +1,28 @@
+Datos de entrada
+
+Gr0mX: 14.0 
+Gr0mY: 20.0 
+Gr0mZ: 30.0 
+Rr0mX: 0.0 
+Rr0mY: 0.0 
+Rr0mZ: 0.0
+
+DTr0a1mX: 10.0 
+DTr0a1mY: 20.0 
+DTr0a1mZ: 30.0 
+DRr0a1mX: 5.0 
+DRr0a1mY: 10.0 
+DRr0a1mZ: 10.0
+
+DTr1a2mX: -24.0
+DTr1a2mY: -40.0 
+DTr1a2mZ: -60.0 
+DRr1a2mX: 10.0 
+DRr1a2mY: 15.0 
+DRr1a2mZ: 5.0
+
+Hr0mX: 25.0 
+Hr0mY: 30.0 
+Hr0mZ: 35.0
+
+output directory: output/
