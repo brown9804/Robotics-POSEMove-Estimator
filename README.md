@@ -7,9 +7,14 @@ Belinda Brown, belindabrownr04@gmail.com
 [![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
 [brown9804](https://github.com/brown9804)
 
-2019
+Last updated: 2019-11-14
 
 ----------
+
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
 
 This repository contains code for estimating the position and orientation of a robot part, as well as the translation and rotation of the robot over time. The main file of this project is responsible for the core functionality of pose estimation, rotation, and translation.
 
