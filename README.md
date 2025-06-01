@@ -21,7 +21,7 @@ where `R` is the corresponding rotation matrix. The rotation matrix `R` and the 
 
 ## Dependencies
 
-The program uses the following headers from the standard C library:
+> The program uses the following headers from the standard C library:
 
 - `<string.h>` for string operations
 - `<stdio.h>` for input and output operations
