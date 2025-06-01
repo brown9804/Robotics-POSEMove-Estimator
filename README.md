@@ -1,4 +1,4 @@
-# Robotics Pose Estimation, Rotation and Translation
+# Robotics Pose Estimation, Rotation \& Translation
 
 University of Costa Rica
 
@@ -8,11 +8,6 @@ University of Costa Rica
 Last updated: 2019-11-14
 
 ----------
-
-<div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
-</div>
 
 > This repository contains code for estimating the position and orientation of a robot part, as well as the translation and rotation of the robot over time.
 
@@ -35,4 +30,9 @@ The program uses the following headers from the standard C library:
 
 ## Usage
 
-To use this program, compile and run the main file. The program will read the control parameters from the `current_control_parameters.txt` file, perform the calculations, and save the results in the `resultados.txt` file.
+> To use this program, compile and run the main file. The program will read the control parameters from the `current_control_parameters.txt` file, perform the calculations, and save the results in the `resultados.txt` file.
+
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
